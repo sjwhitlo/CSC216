@@ -1,2 +1,2 @@
-# CSC216
-Projects created during my Java 2 course (Spring 2015)
+# CSC230
+Projects created during my C and Software Tools course (Spring 2015)
